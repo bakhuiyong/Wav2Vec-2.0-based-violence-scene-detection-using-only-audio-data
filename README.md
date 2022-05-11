@@ -9,7 +9,7 @@ This repository implements Wav2Vec 2.0 based violence scene detection using only
 ## Proposed System
 
 The proposed system is as follows.
-The MediaEval2015 audio signal is input to the pre-trained Wav2Vec 2.0. After that, the violent scenes are classified with a classifier.
+The MediaEval2015 audio signal is input to the pre-trained Wav2Vec 2.0. After that, the violent scenes are detected with a classifier.
 
 <img src="/images/model.png" width="50%" height="130">
 
